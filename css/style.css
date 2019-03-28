@@ -1,0 +1,69 @@
+.clear{
+	clear: both;
+}
+
+.font{
+	font-family: Century Gothic;
+	
+}
+.container{
+	width: 900px;
+	margin: auto;
+}
+
+.name{
+	width: 900px;
+	background-color: #f2f2f2;
+	text-align: center;
+
+}
+
+.social{
+	width: 900px;
+	background-color: white;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.media{
+	width: 275px;
+	float: left;
+	font-size: 17px;
+	margin-left: 20px;
+	margin-bottom: 8px;
+
+}
+.profile{
+	width: 900px;
+	text-align: justify;
+}
+
+.eduAndQual{
+	width: 800px;
+	margin: auto;
+}
+
+.download
+{
+	width: 600px;
+	margin: auto;
+}
+
+button{
+	color: #fff;
+ 	background-color: #5cb85c;
+ 	border-color: #4cae4c;
+
+}
+
+.user{
+	width: 900px;
+}
+
+.picture{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%; 
+	margin: auto;
+
+}
